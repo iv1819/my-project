@@ -20,6 +20,8 @@ class MonHoc{
 	protected:
 		string tm;
 		float dcc, dkt, dt;
+		//hello
+		
 	public:
 		void nhap(){
 			cout<<"Nhap ten mon hoc: ";getline(cin,tm);
